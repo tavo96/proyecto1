@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1415721221 source:c:\users\gustavo suarez\desktop\tarea3orga-master\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<fstream>
+	<tchar.h>
+	<stdio.h>
+	<iomanip>
+	<direct.h>
+
